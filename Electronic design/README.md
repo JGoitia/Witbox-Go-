@@ -9,8 +9,9 @@ Here you will find schematics, layouts, and renders for all the boards.
 * **Power button and RGB LED:** ON/OFF functionality and human interface to report printer status.
 * **Z-axis wiring:** auxiliary PCB to route signals while allowing linear movement.
 
-##License
-<img src="by-sa.png" width="200" align = "center">
+## License
+
+<img src="./doc/license/by-sa.png" width="200" align = "center">
 
 
 
