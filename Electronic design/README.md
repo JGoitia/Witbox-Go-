@@ -11,7 +11,7 @@ Here you will find schematics, layouts, and renders for all the boards.
 
 ## License
 
-<img src="Witbox-Go-/doc/license/by-sa.png" width="200" align = "center">
+<img src="/doc/license/by-sa.png" width="200" align = "center">
 
 
 
